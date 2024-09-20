@@ -121,9 +121,6 @@ button:hover {
     width: 90%;
     padding: 10px 50px;
   }
-  .new {
-    margin: 50px auto;
-  }
 }
 @media screen and (max-width: 500px) {
   .todo-container {
